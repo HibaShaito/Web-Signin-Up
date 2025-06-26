@@ -30,5 +30,10 @@ A front-end project featuring **HTML**, **CSS**, and **JavaScript** that include
 - No back-end used — user data is stored locally using `localStorage`
 - Designed as a front-end learning project
 - Best viewed on modern browsers
+  
+## 📄 Additional Pages
+
+- **About Us**: A simple page introducing the purpose of the form/website.
+- **Privacy Policy**: Sample privacy content showing awareness of data responsibility.
 
 
