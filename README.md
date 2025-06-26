@@ -33,7 +33,7 @@ A front-end project featuring **HTML**, **CSS**, and **JavaScript** that include
   
 ## 📄 Additional Pages
 
-- **About Us**: A simple page introducing the purpose of the form/website.
+- **About Us**: A simple page introducing the purpose of the website.
 - **Privacy Policy**: Sample privacy content showing awareness of data responsibility.
 
 
